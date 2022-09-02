@@ -1,3 +1,0 @@
-# Direção
-
-- [x] André Felipe
