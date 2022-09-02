@@ -2,7 +2,7 @@
 
 > Name: ***@DeldMi***
 
-> [Ccolaboração](doc/)
+> [Colaboração](documentos/CONTRIBUTING.md)
 
 > ![DeldMI](https://avatars.githubusercontent.com/u/63366610?v=4)
 
