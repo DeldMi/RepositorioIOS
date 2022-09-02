@@ -1,3 +1,3 @@
 # Direção
 
-- André Felipe
+- [x] André Felipe
